@@ -1,0 +1,35 @@
+{% extends "_base.html" %}
+
+{% block home %} 
+{% endblock %}
+
+{% block body %}
+
+<div class="jumbotron">
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h1>{{this.title}}</h1>
+                <h2>{{this.tagline}}</h2>
+             </div>
+        </div>
+        
+        <div class="btn-group">
+        <a href="https://91.121.141.56/owncloud/public.php?service=files&t=bf078e9a920982e1c9ea515dd0f2d628" class="btn btn-success">Get Windows Package</a>
+    
+        <a href="https://91.121.141.56/owncloud/public.php?service=files&t=e20596102eb343131b2d87e218c1be68" class="btn btn-success">Mac</a>
+
+        <a href="https://91.121.141.56/owncloud/public.php?service=files&t=32c749382111ffc5d954f9d631ef0742" class="btn btn-success">Linux</a>
+        </div>
+    
+    </div>
+</div>
+
+<div class="container text-center">
+    <p>Screenshot:</p>
+    <a href="{{site.root}}/intro.html">
+        <img src="{{site.root}}/img/earth.png"\>
+    </a>
+</div>
+
+{% endblock %}
