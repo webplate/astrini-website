@@ -37,7 +37,7 @@ Even small donations keep volunteer work afloat!
 Linked projects
 ---------------
 
-You should also check-out our other projects on [cognitive astronomy](https://cognitiveastronomy.scicog.fr/). Don't miss the [Chronogeoscope](https://cognitiveastronomy.scicog.fr/astrini/), an educationnal tool to explain the link between time and place on a clock.
+You should also check-out our other projects on [cognitive astronomy](https://cognitiveastronomy.scicog.fr/). Don't miss the [Chronogeoscope](https://cognitiveastronomy-app.scicog.fr/), an educational tool to explain the link between time and place on a clock.
 
 Foundations
 ===========
