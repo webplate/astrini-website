@@ -34,13 +34,14 @@ Even small donations keep volunteer work afloat!
 <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+Linked projects
+---------------
 
+You should also check-out our other projects on [cognitive astronomy](https://cognitiveastronomy.scicog.fr/). Don't miss the [Chronogeoscope](https://cognitiveastronomy.scicog.fr/astrini/), an educationnal tool to explain the link between time and place on a clock.
 
 Foundations
 ===========
 
 Astrini is coded in the [Python language](https://www.python.org/).
 
-We include the [Astronomia](https://pypi.python.org/pypi/astronomia/) python module for future ephemeris precison improvements. 
-
-The 3D python engine supporting astrini is [Panda3D](https://www.panda3d.org/), very nice for prototyping and seems robust.
+The 3D python engine supporting astrini is [Panda3D](https://www.panda3d.org/), very nice for prototyping.
